@@ -15,11 +15,19 @@
 * 撤销存证的测试用例；
 * 转移存证的测试用例；
 
+![](https://img.learnblockchain.cn/pics/20200609231702.jpg)
+
+
+
 第二题：编写存证模块的UI，包括
 
 * 创建存证的UI
+
 * 删除存证的UI
+
 * 转移存证的UI
+
+  ![image-20200611230245772](https://img.learnblockchain.cn/pics/20200611230304.png)
 
 第三题（附加题）：实现购买存证的功能代码：
 
